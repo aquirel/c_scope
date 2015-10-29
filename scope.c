@@ -1,3 +1,6 @@
+// Few macros to manage objects' lifetime automatically.
+// Compile with -std=gnu11.
+
 #include <stdio.h>
 #include <stdbool.h>
 
